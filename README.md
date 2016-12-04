@@ -23,3 +23,7 @@ cred <- cred_ssh_key("~/.ssh/id_rsa.pub", "~/.ssh/id_rsa")
 # 6) Push changes in local repository to GitHub
 push(repo, "origin", "refs/heads/master", credentials = cred)
 ```
+
+---
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
