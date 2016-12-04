@@ -27,3 +27,4 @@ push(repo, "origin", "refs/heads/master", credentials = cred)
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
